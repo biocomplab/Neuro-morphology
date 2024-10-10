@@ -13,7 +13,7 @@ import torch.multiprocessing as mp
 from functools import partial
 
 from input_problems import FUNCTIONS
-from settings import (get_exp_one, get_exp_two, get_exp_three, get_exp_four, get_exp_five, get_exp_six, get_exp_seven,
+from psettings import (get_exp_one, get_exp_two, get_exp_three, get_exp_four, get_exp_five, get_exp_six, get_exp_seven,
                       get_exp_eight, EXP_FLAGS)
 from visualization_and_statistics import (visualize_exp_one, visualize_exp_two, visualize_exp_three, visualize_exp_four,
                                           visualize_exp_five, visualize_exp_six, visualize_exp_seven,
