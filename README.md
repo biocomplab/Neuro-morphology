@@ -15,4 +15,4 @@ All the simulations can take several weeks, so kindly have have this in mind whe
 -In the psettings one can choose which experiment to run by setting its flag to True (and others to False) in the EXP_FLAGS variable \
 -The settings for each simulations is in its designated "get_exp_number", for example the first experiment is "get_exp_one" \
 -The affected plots in the paper are in the docstring of the experiment \
--The meaning of each simuation parameter is in the get_exp_one setting \
+-The meaning of each simuation parameter is in the get_exp_one setting
