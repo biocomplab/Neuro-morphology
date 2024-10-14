@@ -18,6 +18,6 @@ All the simulations can take several weeks, so kindly have have this in mind whe
   -The affected plots in the paper are in the docstring of the experiment \
   -The meaning of each simuation parameter is in the get_exp_one setting
 ### Noise studies
-  -These are the simulations for Fig.5 in the paper
-  -Go to main.py and choose which simulation to perform
+  -These are the simulations for Fig.5 in the paper \
+  -Go to main.py and choose which simulation to perform \
   -The associated parameters are listed under
