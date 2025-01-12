@@ -27,7 +27,7 @@ Brains have evolved diverse neurons with varying morphologies and dynamics that 
 
 ## Example results:
 
-![screenshot](Figures/Fig2.png)
+![screenshot](Figures/Fig2.png  width="48")
 
 ### Adapting delays but not weights is necessary to solve a set of semi-temporal logic problems
 
