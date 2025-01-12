@@ -27,6 +27,6 @@ Brains have evolved diverse neurons with varying morphologies and dynamics that 
 
 ## Example results:
 
-![screenshot](Figures/Fig2.tif)
+![screenshot](Figures/Fig2.png)
 
 
