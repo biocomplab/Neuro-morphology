@@ -1,6 +1,6 @@
 This is the repository for the paper: "Adapting to time why nature may have evolved a diverse set of neurons"
 
-Paper url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012673
+Paper url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012673 \
 DOI: https://doi.org/10.1371/journal.pcbi.1012673
 
 This code uses the conda environment: NeuromorphEnv
